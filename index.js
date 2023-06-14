@@ -47,4 +47,4 @@ switch (season) {
 // }
   
 
-// bith is a right ..
+// both are  right ..
